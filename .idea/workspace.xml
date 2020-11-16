@@ -2,66 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe51d8c-7a26-4d1d-a5ec-e91ad80e600f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/PingPongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Ping_Pong_StarterCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java_Ping_Pong_StarterCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/models/PingPong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/PingPong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/PingPongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/PingPongTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/models/PingPong.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#199#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/models/PingPongTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#315#323#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,69 +30,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/models/PingPongTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/models/PingPong.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
-  </component>
+  <component name="ProjectId" id="1k8ZbQT8mxmPzd8Ibrkk2EaF5NJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Java-Ping-Pong-StarterCode-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Ping-Pong-StarterCode-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Ping-Pong-StarterCode-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Ping-Pong-StarterCode-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Ping-Pong-StarterCode-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Ping-Pong-StarterCode-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Ping-Pong-StarterCode-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Ping-Pong-StarterCode-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Ping-Pong-StarterCode-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Ping-Pong-StarterCode-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -146,20 +51,39 @@
       <recent name="models" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="JUnit.PingPongTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Java_Ping_Pong_StarterCode.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PingPongTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Ping_Pong_StarterCode.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.PingPongTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="JUnit.PingPongTest" />
+        <item itemvalue="Application.App" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -171,72 +95,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556737638025</updated>
+      <workItem from="1605084251862" duration="2398000" />
+      <workItem from="1605099848752" duration="109000" />
+      <workItem from="1605105438968" duration="1476000" />
+      <workItem from="1605128107572" duration="62000" />
+      <workItem from="1605167217746" duration="87000" />
+      <workItem from="1605335710326" duration="2966000" />
+      <workItem from="1605349619084" duration="72000" />
+      <workItem from="1605359380830" duration="665000" />
+      <workItem from="1605511903988" duration="829000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="728" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383437" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/models/PingPongTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#315#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/PingPong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#199#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1554" height="205" key="GridCell.Tab.0.bottom" timestamp="1605513058506">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="205" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1605513058506" />
+    <state width="1554" height="205" key="GridCell.Tab.0.center" timestamp="1605513058506">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="205" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1605513058506" />
+    <state width="1554" height="205" key="GridCell.Tab.0.left" timestamp="1605513058506">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="205" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1605513058506" />
+    <state width="1554" height="205" key="GridCell.Tab.0.right" timestamp="1605513058506">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="205" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1605513058506" />
+    <state width="1354" height="255" key="GridCell.Tab.1.bottom" timestamp="1605347125548">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1354" height="255" key="GridCell.Tab.1.bottom/0.27.1600.873@0.27.1600.873" timestamp="1605347125548" />
+    <state width="1354" height="255" key="GridCell.Tab.1.center" timestamp="1605347125547">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1354" height="255" key="GridCell.Tab.1.center/0.27.1600.873@0.27.1600.873" timestamp="1605347125547" />
+    <state width="1354" height="255" key="GridCell.Tab.1.left" timestamp="1605347125546">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1354" height="255" key="GridCell.Tab.1.left/0.27.1600.873@0.27.1600.873" timestamp="1605347125546" />
+    <state width="1354" height="255" key="GridCell.Tab.1.right" timestamp="1605347125547">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1354" height="255" key="GridCell.Tab.1.right/0.27.1600.873@0.27.1600.873" timestamp="1605347125547" />
+    <state x="456" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1605128105796">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="456" y="291" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1605128105796" />
+    <state x="574" y="195" width="442" height="535" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605360030897">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="574" y="195" width="442" height="535" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1600.873@0.27.1600.873" timestamp="1605360030897" />
+    <state x="109" y="57" width="1372" height="813" key="new project wizard" timestamp="1605128172747">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="109" y="57" width="1372" height="813" key="new project wizard/0.27.1600.873@0.27.1600.873" timestamp="1605128172747" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Ping_Pong_StarterCode$App.ic" NAME="App Coverage Results" MODIFIED="1605342884766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java_Ping_Pong_StarterCode$PingPongTest.ic" NAME="PingPongTest Coverage Results" MODIFIED="1605342931735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
